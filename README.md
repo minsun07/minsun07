@@ -1,4 +1,7 @@
-## Minsun 👋
+## Weolcom to Minsun's GitHub
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=28BC61)
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsun07&utm_content=farm">
 <img
