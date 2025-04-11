@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=28BC61&height=150&section=header&text=Welcome%20to%20Minsun's%20GitHub&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=28BC61&height=100&section=header&text=Welcome%20to%20Minsun's%20GitHub&fontColor=ffffff&fontSize=50)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsun07&utm_content=farm">
 <img
