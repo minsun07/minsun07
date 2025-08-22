@@ -2,12 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=28BC61&height=100&section=header&text=Welcome%20to%20Minsun's%20GitHub&fontColor=ffffff&fontSize=50)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsun07&utm_content=farm">
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/minsun07"
   width="600"
   height="300"
 />
-</a>
+</a> -->
   <img
   src="https://render.gitanimals.org/farms/minsun07"
   width="850"
