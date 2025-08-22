@@ -4,6 +4,12 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsun07&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minsun07"
+  width="600"
+  height="300"
+/>
+</a>
+  <img
+  src="https://render.gitanimals.org/farms/minsun07"
   width="850"
   height="250"
 />
